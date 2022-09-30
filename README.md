@@ -1,0 +1,1 @@
+# manifestwork-kustomize-plugin
